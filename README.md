@@ -49,3 +49,11 @@ For technical feedback, research discussion, and collaboration inquiries, please
 ---
 
 Akiz M Tech builds verifiable scientific tools for accessible learning and research.
+
+## Contact
+
+**AKIZ M TECH**  
+Email: mdakizulislam1@gmail.com  
+Location: Bangladesh
+
+For project information, demonstrations, and technical feedback, please contact us by email.
